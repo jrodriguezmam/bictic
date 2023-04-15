@@ -1,0 +1,2 @@
+# bictic
+Repositorio de BI
